@@ -4,3 +4,5 @@ dist
 *.egg-info
 *.tar.xz
 gmp
+__pycache__
+.pytest_cache
